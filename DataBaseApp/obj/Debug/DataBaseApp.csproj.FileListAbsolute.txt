@@ -1,0 +1,20 @@
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe.config
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.pdb
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.csprojResolveAssemblyReference.cache
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.StudentInformationUi.resources
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.Properties.Resources.resources
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.csproj.GenerateResource.Cache
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.exe
+C:\Phase 2\Batch2\Day 8\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.pdb
+F:\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe.config
+F:\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.exe
+F:\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.pdb
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe.config
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.exe
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.pdb
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.StudentInformationUi.resources
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.Properties.Resources.resources
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\obj\Debug\DataBaseApp.csproj.GenerateResource.Cache
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.exe
+E:\Nahid Hasan Khan Batch 02\ADO.NET\DataBaseApp\DataBaseApp\bin\Debug\DataBaseApp.pdb
